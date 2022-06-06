@@ -13,8 +13,8 @@ body {
   --secondary-text-color: #5c5c62;
   --durability-text-color: #6a737d9c;
   --icon-color: #6a737d;
-  --border-color: #ff9a0045;
-  --text-decoration-color: #ff9a00;
+  --border-color: #6808c97a;
+  --text-decoration-color: #7b34c3;
 }
 
 .container {
@@ -113,6 +113,7 @@ body {
   width: 20px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .contact-info__item-icon path {
